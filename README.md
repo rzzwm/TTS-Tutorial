@@ -55,6 +55,7 @@ sudo apt install python3.10 python3.10-venv -y
 mkdir text-to-speech
 cd text-to-speech
 python3.10 -m venv venv
+source venv/bin/activate
 ```
 
 پکیج TTS رو نصب کنید
